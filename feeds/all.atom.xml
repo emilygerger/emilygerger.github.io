@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Emily Gerger</title><link href="https://emilygerger.github.io/" rel="alternate"></link><link href="https://emilygerger.github.io/feeds/all.atom.xml" rel="self"></link><id>https://emilygerger.github.io/</id><updated>2019-11-30T23:59:00-07:00</updated><entry><title>Python for Everyone: Introduction</title><link href="https://emilygerger.github.io/notebook/python-for-everyone-introduction" rel="alternate"></link><published>2019-11-30T23:59:00-07:00</published><updated>2019-11-30T23:59:00-07:00</updated><author><name>Emily Gerger</name></author><id>tag:emilygerger.github.io,2019-11-30:/notebook/python-for-everyone-introduction</id><summary type="html">
+If you're here, then I probably don't need to convince you to learn Python. It's powerful, it's flexible, it's open source and free (as in $0), and there are thousands of resources available on the interwebs for learning it.
+</summary><content type="html">&lt;h1 id="background"&gt;Background&lt;/h1&gt;
+&lt;p&gt;
+If you're here, then I probably don't need to convince you to learn Python. It's powerful, it's flexible, it's open source and free (as in $0), and there are thousands of resources available on the interwebs for learning it.
+&lt;/p&gt;
+&lt;p&gt;If you've been wanting to learn how to program, or need something more powerful than Excel, or something that's not Matlab, then Python's probably a good choice. If you've ever used formulas in Excel, written a script of any kind, or can grasp the most basic concepts from Algebra, then you can learn Python.&lt;/p&gt;
+&lt;p&gt;This guide is meant to help you start from ground zero. Just the bare essentials, so that you can start doing something useful in as little time as possible. The hope is that you feel empowered to use Python to make your work/life easier.&lt;/p&gt;
+&lt;p&gt;You can learn this. It's not hard. It's like learning anything else. You are a completely capable, wonderful human. If you get stuck, Google is your best friend, followed by Stackoverflow.&lt;/p&gt;
+&lt;h1 id="the-steps"&gt;The Steps:&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href="{filename}install-python-on-your-computer.md"&gt;Install Python on your computer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="{filename}run-your-first-python-code.md"&gt;Run your first Python code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="{filename}write-your-first-python-program.md"&gt;Write your first Python program&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="{filename}interact-with-data-files.md"&gt;Interact with data files&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><category term="misc"></category><category term="python-for-everyone"></category><category term="python-introduction"></category><category term="python"></category></entry></feed>
